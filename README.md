@@ -1,4 +1,4 @@
-# Associazione Bledi – sito web
+# Associazione Bladi – sito web
 
 Sito dell'associazione della comunità algerina di Brescia, in **italiano, arabo e francese**.
 I contenuti (notizie, eventi, attività, galleria, documenti…) si gestiscono da **Sanity Studio**,

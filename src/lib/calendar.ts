@@ -33,10 +33,10 @@ export function buildIcs(event: CalendarEvent, uid: string): string {
   const lines = [
     'BEGIN:VCALENDAR',
     'VERSION:2.0',
-    'PRODID:-//Associazione Bledi//Sito//IT',
+    'PRODID:-//Associazione Bladi//Sito//IT',
     'CALSCALE:GREGORIAN',
     'BEGIN:VEVENT',
-    `UID:${uid}@associazione-bledi`,
+    `UID:${uid}@associazione-bladi`,
     `DTSTAMP:${toUtcStamp(event.start)}`,
     `DTSTART:${toUtcStamp(event.start)}`,
     `DTEND:${toUtcStamp(endOf(event))}`,

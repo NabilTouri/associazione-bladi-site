@@ -12,7 +12,7 @@ branch feature/xyz ──push──▶ GitHub Actions (test) + Vercel Preview (U
 
 - **`main` = produzione.** Non si lavora direttamente su `main`.
 - **Ogni altro branch** ottiene automaticamente un'anteprima su Vercel con un URL proprio
-  (es. `associazione-bledi-site-git-feature-xyz.vercel.app`), da controllare prima del merge.
+  (es. `associazione-bladi-site-git-feature-xyz.vercel.app`), da controllare prima del merge.
 - I **contenuti** (eventi, notizie…) non passano da GitHub: si pubblicano dallo Studio e il sito si aggiorna da solo.
 
 ## 1. Sanity (CMS)
@@ -38,7 +38,7 @@ branch feature/xyz ──push──▶ GitHub Actions (test) + Vercel Preview (U
 ## 2. Vercel (hosting)
 
 1. Crea un account su [vercel.com](https://vercel.com) e collega GitHub.
-2. **Add New → Project → Import** la repository `associazione-bledi-site`. Framework e pnpm vengono rilevati da soli.
+2. **Add New → Project → Import** la repository `associazione-bladi-site`. Framework e pnpm vengono rilevati da soli.
 3. **Settings → Git**: _Production Branch_ = `main`.
 4. **Settings → Environment Variables** (vedi anche `.env.example`):
 

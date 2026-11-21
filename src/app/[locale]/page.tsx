@@ -91,7 +91,7 @@ export default async function HomePage() {
         </Container>
       )}
 
-      {/* What is Bledi */}
+      {/* What is Bladi */}
       <Section id="about">
         <div className="grid gap-10 lg:grid-cols-[1fr_1.4fr] lg:gap-16">
           <h2 id="about-title" className="text-3xl font-bold tracking-tight text-ink-heading sm:text-4xl">

@@ -17,7 +17,7 @@ describe('buildIcs', () => {
     expect(ics.startsWith('BEGIN:VCALENDAR\r\n')).toBe(true)
     expect(ics).toContain('DTSTART:20260705T160000Z')
     expect(ics).toContain('DTEND:20260705T203000Z')
-    expect(ics).toContain('UID:abc123@associazione-bledi')
+    expect(ics).toContain('UID:abc123@associazione-bladi')
     expect(ics.trimEnd().endsWith('END:VCALENDAR')).toBe(true)
   })
 
