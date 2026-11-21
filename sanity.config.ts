@@ -15,8 +15,8 @@ import { structure } from './src/sanity/structure'
 const singletonActions = new Set(['publish', 'discardChanges', 'restore'])
 
 export default defineConfig({
-  name: 'bledi',
-  title: 'Associazione Bledi',
+  name: 'bladi',
+  title: 'Associazione Bladi',
   basePath: '/studio',
   projectId: projectId || 'missing-project-id',
   dataset,

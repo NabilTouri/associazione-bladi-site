@@ -118,8 +118,8 @@ export const homePage = defineType({
     defineField({ name: 'heroTitle', title: 'Titolo principale', type: 'localeString' }),
     defineField({ name: 'heroSubtitle', title: 'Sottotitolo', type: 'localeText' }),
     imageField('heroImage', 'Immagine di copertina'),
-    defineField({ name: 'aboutTitle', title: 'Titolo "Cos’è Bledi"', type: 'localeString' }),
-    defineField({ name: 'aboutText', title: 'Testo "Cos’è Bledi"', type: 'localeText' }),
+    defineField({ name: 'aboutTitle', title: 'Titolo "Cos’è Bladi"', type: 'localeString' }),
+    defineField({ name: 'aboutText', title: 'Testo "Cos’è Bladi"', type: 'localeText' }),
     defineField({
       name: 'pillars',
       title: 'Come operiamo (riquadri)',

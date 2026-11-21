@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteName": "Association Bledi",
+    "siteName": "Association Bladi",
     "tagline": "La communauté algérienne de Brescia",
-    "description": "L'Association Bledi rassemble la communauté algérienne de Brescia : culture, solidarité, événements et soutien aux familles et aux jeunes."
+    "description": "L'Association Bladi rassemble la communauté algérienne de Brescia : culture, solidarité, événements et soutien aux familles et aux jeunes."
   },
   "nav": {
     "home": "Accueil",
@@ -44,13 +44,13 @@
   },
   "home": {
     "eyebrow": "Association culturelle · Brescia",
-    "heroTitle": "Bledi, notre pays. Brescia, notre maison.",
+    "heroTitle": "Bladi, notre pays. Brescia, notre maison.",
     "heroSubtitle": "Nous sommes l'association de la communauté algérienne de Brescia : nous créons des occasions de rencontre, soutenons les familles et construisons des ponts entre les cultures algérienne et italienne.",
     "ctaDonate": "Nous soutenir",
     "ctaJoin": "Devenir membre",
     "ctaEvents": "Prochains événements",
-    "aboutTitle": "Qu'est-ce que Bledi",
-    "aboutText": "« Bledi » signifie « mon pays » en darija algérienne. L'association est née pour garder vivant le lien avec nos racines tout en participant activement à la vie de la ville qui nous accueille.",
+    "aboutTitle": "Qu'est-ce que Bladi",
+    "aboutText": "« Bladi » signifie « mon pays » en darija algérienne. L'association est née pour garder vivant le lien avec nos racines tout en participant activement à la vie de la ville qui nous accueille.",
     "howTitle": "Notre action",
     "pillars": [
       {
@@ -314,7 +314,7 @@
     "title": "Politique de confidentialité",
     "body": [
       "Ceci est une ébauche de la politique de confidentialité. Le texte définitif sera rédigé et approuvé par l'association avant la mise en production.",
-      "Responsable du traitement : Association Bledi, Brescia. Les données envoyées via les formulaires du site (contact, adhésion) sont utilisées uniquement pour répondre aux demandes et gérer la relation associative.",
+      "Responsable du traitement : Association Bladi, Brescia. Les données envoyées via les formulaires du site (contact, adhésion) sont utilisées uniquement pour répondre aux demandes et gérer la relation associative.",
       "Le site n'utilise pas de cookies de profilage. Les éventuels outils de statistiques sont anonymes et ne nécessitent pas de consentement.",
       "Vous pouvez à tout moment demander l'accès, la rectification ou la suppression de vos données en écrivant à l'adresse e-mail de l'association."
     ]

@@ -7,13 +7,13 @@ Legenda: 🧑‍💼 decisione o azione dell'associazione · 🛠️ lavoro tecn
 ## Da fare prima della messa online
 
 - [ ] 🧑‍💼 Creare il progetto Sanity e l'account Vercel dell'associazione (vedi [`docs/deploy.md`](docs/deploy.md))
-- [ ] 🧑‍💼 Scegliere e acquistare il dominio (es. `associazionebledi.it`), collegarlo a Vercel, aggiornare `NEXT_PUBLIC_SITE_URL`
+- [ ] 🧑‍💼 Scegliere e acquistare il dominio (es. `associazionebladi.it`), collegarlo a Vercel, aggiornare `NEXT_PUBLIC_SITE_URL`
 - [ ] ✍️ Inserire nello Studio i dati reali in **Impostazioni del sito**: indirizzo, coordinate, email, telefono, social
 - [ ] ✍️ Scrivere i testi di **Home page** e **Chi siamo** (storia vera, missione, valori) nelle tre lingue
 - [ ] ✍️ Inserire il direttivo (con consenso per eventuali foto)
 - [ ] ✍️ Rivedere nello Studio i testi di **Pagina Donazioni** e **Pagina Trasparenza** (oggi il sito usa i testi predefiniti)
 - [ ] 🧑‍💼 Far approvare l'**informativa privacy** definitiva e pubblicarla come _Pagina legale_ con slug `privacy`
-- [x] 🧑‍💼 Logo e identità visiva definitivi (design system "Associazione Bledi": logo con mezzaluna e stella sulla i, palette, token in `src/app/globals.css`)
+- [x] 🧑‍💼 Logo e identità visiva definitivi (design system "Associazione Bladi": logo con mezzaluna e stella sulla i, palette, token in `src/app/globals.css`)
 - [ ] 🧑‍💼 Far rileggere le traduzioni in arabo e francese da madrelingua
 
 ## Donazioni — oggi in modalità demo

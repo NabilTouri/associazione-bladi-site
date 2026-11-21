@@ -1,13 +1,13 @@
 @import 'tailwindcss';
 
 /*
- * Design tokens from the "Associazione Bledi" design system: green and red from the
+ * Design tokens from the "Associazione Bladi" design system: green and red from the
  * Algerian flag on a warm sand ground. Components use the semantic colours
  * (surface, ink, brand, accent…); the palette steps are for illustration and print.
  */
 @theme {
-  /* Palette (design system "Associazione Bledi"). Components use the semantic colours below. */
-  /* Bledi green — from the Algerian flag; 600 is the brand anchor */
+  /* Palette (design system "Associazione Bladi"). Components use the semantic colours below. */
+  /* Bladi green — from the Algerian flag; 600 is the brand anchor */
   --color-green-50: #edf7f1;
   --color-green-100: #d2efdf;
   --color-green-200: #a6dec0;
@@ -19,7 +19,7 @@
   --color-green-800: #094428;
   --color-green-900: #07321e;
   --color-green-950: #04200f;
-  /* Bledi red — the flag red: giving (Donate) and the star in the logo */
+  /* Bladi red — the flag red: giving (Donate) and the star in the logo */
   --color-red-50: #fdeef1;
   --color-red-100: #fbd5dc;
   --color-red-200: #f5a9b7;
